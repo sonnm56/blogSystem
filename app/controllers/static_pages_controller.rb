@@ -7,4 +7,7 @@ class StaticPagesController < ApplicationController
 
   def nui
   end
+
+  def contact
+  end
 end
